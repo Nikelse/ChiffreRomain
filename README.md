@@ -1,2 +1,2 @@
 # ChiifreRomain
-Conversion de nombreentier en Chiffre Romain python
+Conversion de nombre entier en Chiffre Romain en python
